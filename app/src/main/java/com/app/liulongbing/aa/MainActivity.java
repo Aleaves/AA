@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         //这是dev分支
         //在master分支 dev分支更改
        //网页修改
+        Log.i("==========","main_web");
     }
 }
